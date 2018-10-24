@@ -20,3 +20,5 @@ htmlcov/
 
 # Dev files
 /dev/
+
+.python-version
